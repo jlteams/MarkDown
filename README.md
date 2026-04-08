@@ -69,7 +69,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/MarkDown.git
+   git clone https://github.com/jlteams/MarkDown.git
    cd MarkDown
    ```
 
